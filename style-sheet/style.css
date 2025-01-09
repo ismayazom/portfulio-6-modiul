@@ -94,4 +94,93 @@ nav ul{
     font-weight: 580;
     color: rgba(117, 117, 117, 1);
 
+
+}
+/* about section section-1 */
+#section-1{
+    margin: 0;
+}
+.About{
+    margin-top: 100px;
+    background-color: rgba(255, 248, 243, 1);
+    width: 1100px;
+    height: 550px;
+    margin: 130px auto 0;
+}
+.about{
+    margin: auto;
+    padding: 50px 150px;
+       width: 700px;
+}
+
+.am{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+.a-edu{
+    display: flex;
+    justify-content: space-between;
+}
+.am-discrip{
+    color: rgba(117, 117, 117, 1);
+}
+.a-title{
+    color: rgba(117, 117, 117, 1);
+    text-align: center;
+    font-size: 20px;
+}
+.a-discrip{
+    color: rgba(71, 71, 71, 1);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.am-discrip, .am-discrip, .a-edu{
+    margin-bottom: 30px;
+}
+
+/* section 2 skil seet */
+#section-2{
+    margin-top: 100px;
+}
+
+.sec-2-hed{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.sec-2-dis{
+    color: rgba(117, 117, 117, 1);
+    font-size: 18px;
+    width: 800px;
+    height: 90px;
+    margin: 0 auto;
+
+}
+
+
+.card-contener{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+.card{ 
+    /* background-color: rgb(39, 39, 163); */
+    width: 250px;
+    height: 350px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
+}
+.sc-discripsion{
+    height: 240px;
+    width: 200px;
+    margin: 40px 33px 30px;
+}
+.card img{
+    margin: 30px;
+    margin-left: 30px;
 }
