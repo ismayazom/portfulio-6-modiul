@@ -211,3 +211,33 @@ nav ul{
 .down-cv{
     margin: 50px 0 100PX 440PX;
 }
+.hed-2{
+    font-size: 35px;
+    width: 800;
+    color: rgba(24, 24, 24, 1);
+}
+footer{
+    display: flex;
+    padding: 100px 144px;
+    background-color: #FFF8F3;
+    gap: 70px;
+}
+footer div input[type="text"]{
+    height: 60px;
+    width: 420px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 600;
+    display: block;
+    margin-bottom: 20px;
+}
+footer div textarea{
+    width: 420px;
+    height: 180px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 600;
+    display: block;
+    margin-bottom: 20px;
+
+}
