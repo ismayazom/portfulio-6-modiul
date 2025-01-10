@@ -18,6 +18,13 @@
 .dark-2{
     color: rgba(71, 71, 71, 1);
 }
+.pragraph{
+    font-size: 16px;
+    line-height: 28px;
+    width: 600;
+    color:"rgba(117, 117, 117, 1)";
+}
+
 /* nav style */
 header{
     padding-left: 100px;
@@ -183,4 +190,24 @@ nav ul{
 .card img{
     margin: 30px;
     margin-left: 30px;
+}
+/* section-3 */
+.section-3{
+    margin-top: 100px;
+}
+.heading-edu-exp{
+    margin: 0 350px;
+    width: 700;
+    font-size: 35px;
+}
+
+/* education & experience seccion */
+.edu-exp-contener{
+    display: flex;
+    margin:0 200px 0 100px;
+    gap: 24px;
+    margin-top: 75px;
+}
+.down-cv{
+    margin: 50px 0 100PX 440PX;
 }
